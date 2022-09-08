@@ -1,6 +1,6 @@
-<p align="center">
-<h3> HELLO WORLD! I'm PARK HYEWON! </h3>
-</p>
+<h3><p align="center">
+ HELLO WORLD! I'm PARK HYEWON! 
+</p></h3>
 
 <br>
 
