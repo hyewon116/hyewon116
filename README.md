@@ -52,6 +52,14 @@
 <br>
 
 <p>
+    <Strong> 📊 프로젝트 </Strong><br>
+</p>
+ <ul>
+  <li>1차 프로젝트 : 전통주 쇼핑몰 <상부상酒> https://github.com/hyewon116/SBSJ_Project1 (2022.08) </li>
+  <li>2차 프로젝트 : 스터디 모집 사이트 <WeStudy> https://github.com/Potatoplz/WeStudy (2022.09) </li>
+ </ul>
+
+<p>
     <Strong>📝 자격증 </Strong><br>
 </p>
 <p display="inline-block">
