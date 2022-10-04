@@ -41,10 +41,12 @@
   <li>서울시립대학교 중국어문화학과 (2009.03 ~ 2015.08)</li>
   <li>경복비즈니스고등학교 IT비즈니스과 (2006.03 ~ 2009.02)</li>
  </ul>
-   🏆 수상 내역
-   한국ICT인재개발원 - 우수상
-   ![우수상](https://user-images.githubusercontent.com/90268447/193783914-657266e2-bcc5-4c79-804b-e4dc11cca41e.png)
-
+ <p>
+   <Strong>🏆 수상 내역 </Strong><br>
+ </p>
+   <ul>
+ <li>한국ICT인재개발원 - 우수상</li>
+   <img src = https://user-images.githubusercontent.com/90268447/193783914-657266e2-bcc5-4c79-804b-e4dc11cca41e.png width="70%"> </img>
 </p>
 <br>
 
