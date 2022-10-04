@@ -1,11 +1,10 @@
 <h3><p align="center">
  신입 백엔드 개발자 박혜원입니다😊
-</p></h3>
-
+</p></h3> <hr>
 <br>
 
 <p align="center">
-    <Strong>⚒️Tech Stack⚒️</Strong><br>
+    <Strong>⚒️Tech Stack </Strong><br>
 </p>
 
 <p align="center" display="inline-block">
@@ -30,6 +29,11 @@
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/json-000000?style=for-the-badge&logo=JSON&logoColor=white">
   <img src="https://img.shields.io/badge/ajax-00A8E1?style=for-the-badge&logo=y&logoColor=white">
+</p>
+
+
+<p align="center">
+    <Strong>📗 교육 및 경력 </Strong><br>
 </p>
 
 <br>
