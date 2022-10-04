@@ -18,6 +18,7 @@
     <img src="https://img.shields.io/badge/Servlet-FF7800?style=for-the-badge&logo=Stripe&logoColor=white">
     <img src="https://img.shields.io/badge/RestAPI-36B6E5?style=for-the-badge&logo&logoColor=white">
     <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache Maven&logoColor=white">
+    <img src="https://img.shields.io/badge/tomcat-F8DC75?style=for-the-badge&logo=Apache Tomcat&logoColor=black">
 </p><br>
 
 <p align="center" display="inline-block">
