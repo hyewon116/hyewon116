@@ -46,7 +46,7 @@
  </p>
    <ul>
  <li>한국ICT인재개발원 - 우수상 (학업 최우수)</li><br>
-   <img src = https://user-images.githubusercontent.com/90268447/193783914-657266e2-bcc5-4c79-804b-e4dc11cca41e.png width="30%"> </img>
+   <img src = https://user-images.githubusercontent.com/90268447/193783914-657266e2-bcc5-4c79-804b-e4dc11cca41e.png width="35%"> </img>
 </p>
    </ul>
 <br>
