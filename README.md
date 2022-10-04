@@ -45,7 +45,7 @@
    <Strong>🏆 수상 내역 </Strong><br>
  </p>
    <ul>
- <li>한국ICT인재개발원 - 우수상</li><br>
+ <li>한국ICT인재개발원 - 우수상 (학업 최우수)</li><br>
    <img src = https://user-images.githubusercontent.com/90268447/193783914-657266e2-bcc5-4c79-804b-e4dc11cca41e.png width="30%"> </img>
 </p>
    </ul>
