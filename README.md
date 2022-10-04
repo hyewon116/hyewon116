@@ -31,9 +31,15 @@
   <img src="https://img.shields.io/badge/ajax-00A8E1?style=for-the-badge&logo=y&logoColor=white">
 </p>
 
-
+<br>
 <p align="center">
-    <Strong>📗 교육 및 경력 </Strong><br>
+    <Strong>📗 교육 사항 </Strong><br>
 </p>
+<p align="center" display="inline-block">
+* 한국ICT인재개발원 - 데이터 융합을 활용한 자바 개발자 양성과정 (2022.04 ~ 2022.09)
+* 서울시립대학교 중국어문화학과 (2009.03 ~ 2015.08)
+* 경복비즈니스고등학교 IT비즈니스과 (2006.03 ~ 2009.02)
+</p>
+
 
 <br>
