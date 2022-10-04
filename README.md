@@ -16,6 +16,7 @@
     <img src="https://img.shields.io/badge/MyBatis-DD282E?style=for-the-badge&logo&logoColor=white">
     <img src="https://img.shields.io/badge/JSP-4B4B77?style=for-the-badge&logo&logoColor=white">
     <img src="https://img.shields.io/badge/Servlet-FF7800?style=for-the-badge&logo=Stripe&logoColor=white">
+    <img src="https://img.shields.io/badge/RestAPI-36B6E5?style=for-the-badge&logo&logoColor=white">
 </p><br>
 
 <p align="center" display="inline-block">
